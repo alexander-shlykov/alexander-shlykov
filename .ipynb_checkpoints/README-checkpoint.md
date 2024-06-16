@@ -1,4 +1,4 @@
-# README - IN Progress
+# README - IN Progress [https://github.com/alexander-shlykov/alexander-shlykov/tree/main/assets/ezgif.com-resize_1551686494.gif]
 
 ## Привет, меня зовут Саша!  
 
