@@ -1,4 +1,3 @@
-# README - IN Progress
-
-![ezgif com-resize_1551686494](https://github.com/alexander-shlykov/alexander-shlykov/assets/162020093/add34e19-9d1f-4836-a00f-e7cad1a5697b)
+<h1 align="center">Всем привет, меня зовут Саша!  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
