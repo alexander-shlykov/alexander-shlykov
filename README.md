@@ -4,11 +4,14 @@
 <h1 align="center">Всем привет, меня зовут Саша!  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## Обо мне :information_desk_person::  
+### Обо мне :information_desk_person::  
 :mag:Я начинающий аналитик данных с техническим образованием в сфере ракетостроения.  
 :rocket:В данный момент совершенствую навыки и готов к сотрудничеству.  
-## Мои проекты :point_down::
+### Мои проекты :point_down::
 |Название проекта|Описание проекта|Стек|
 |-----------|-----------|-----------|
 ||||
 ||||
+___
+### :wrench: Языки и инструменты:  
+![Static Badge](https://img.shields.io/badge/:python)
