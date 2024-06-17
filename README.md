@@ -14,4 +14,4 @@
 ||||
 ___
 ### :wrench: Языки и инструменты:  
-![Static Badge](https://img.shields.io/badge/:python)
+![Python](https://img.shields.io/badge/python)
