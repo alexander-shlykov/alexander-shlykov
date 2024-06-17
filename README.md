@@ -1,4 +1,4 @@
-<align="center">
+<h3 align="center">
 <img src="https://github.com/alexander-shlykov/alexander-shlykov/blob/main/assets/Header-1.gif" height="200"/>
   
 <h1 align="center">Всем привет, меня зовут Саша!  
