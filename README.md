@@ -12,16 +12,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat&logo=gmail&logoColor=#26A5E4)](mailto:shlykovalexander01@gmail.com)
 
 ___
-### :pick: Языки и инструменты:  
-<img src="https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=3776AB" /> <img src="https://img.shields.io/badge/numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=3776AB" /> <img src="https://img.shields.io/badge/scipy-FFFFFF?style=for-the-badge&logo=scipy&logoColor=8CAAE6" /> <img src="https://img.shields.io/badge/plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=3F4F75" /> <img src="https://img.shields.io/badge/jupyter notebook-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=F37626" />  
-<img src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/clickhouse-FFFFFF?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" />  
-<img src="https://img.shields.io/badge/tableau-FFFFFF?style=for-the-badge&logo=tableau&logoColor=E97627" /> <img src="https://img.shields.io/badge/redash-FFFFFF?style=for-the-badge&logo=redash&logoColor=FF7964" />  
-<img src="https://img.shields.io/badge/github-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" /> <img src="https://img.shields.io/badge/AIRFLOW-FFFFFF?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
 
 ### :open_book: Мои проекты:
-In Progress
+
 |Название проекта|Задачи на проект|Стек|
 |-----------|-----------|-----------|
 |[e-commerce](https://github.com/alexander-shlykov/e-commerce)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|Python (pandas, numpy, seaborn)|
 |[game-dev](https://github.com/alexander-shlykov/game-dev)|Написание гибой функции для расчёта retention. Выбор, расчет продуктовых метрик (ARPPU, ARPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, Bootstrap).|Python (pandas, scipy, seaborn, plotly)|
 
+___
+### :pick: Языки и инструменты:  
+<img src="https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=3776AB" /> <img src="https://img.shields.io/badge/numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=3776AB" /> <img src="https://img.shields.io/badge/scipy-FFFFFF?style=for-the-badge&logo=scipy&logoColor=8CAAE6" /> <img src="https://img.shields.io/badge/plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=3F4F75" /> <img src="https://img.shields.io/badge/jupyter notebook-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=F37626" />  
+<img src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/clickhouse-FFFFFF?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" />  
+<img src="https://img.shields.io/badge/tableau-FFFFFF?style=for-the-badge&logo=tableau&logoColor=E97627" /> <img src="https://img.shields.io/badge/redash-FFFFFF?style=for-the-badge&logo=redash&logoColor=FF7964" />  
+<img src="https://img.shields.io/badge/github-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" /> <img src="https://img.shields.io/badge/AIRFLOW-FFFFFF?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
