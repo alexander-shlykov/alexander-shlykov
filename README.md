@@ -19,6 +19,7 @@ ___
 |-----------|-----------|-----------|
 |[e-commerce](https://github.com/alexander-shlykov/e-commerce)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|Python (pandas, numpy, seaborn)|
 |[game-dev](https://github.com/alexander-shlykov/game-dev)|Написание гибой функции для расчёта retention. Выбор, расчет продуктовых метрик (ARPPU, ARPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, Bootstrap).|Python (pandas, scipy, seaborn, plotly)|
+|[dating_app](https://github.com/alexander-shlykov/dating_app)|Анализ результатов А/B-теста (тест на независимость Хи-квадрат).|Python (pandas, scipy, seaborn)|
 
 ___
 ### :pick: Языки и инструменты:  
