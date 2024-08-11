@@ -23,7 +23,7 @@ ___
 
 |Название проекта|Задачи на проект|Стек|
 |-----------|-----------|-----------|
-|[e-commerce](https://github.com/alexander-shlykov/e-commerce)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|Python (pandas, numpy, seaborn)|
+|[e-commerce](https://github.com/alexander-shlykov/e-commerce)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|Python (pandas, numpy)|
 |[game-dev](https://github.com/alexander-shlykov/game-dev)|Написание гибой функции для расчёта retention. Выбор, расчет продуктовых метрик (ARPPU, ARPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест Хи-квадрат, Bootstrap).|Python (pandas, scipy, seaborn, plotly)|
 |[dating_app](https://github.com/alexander-shlykov/dating_app)|Анализ результатов А/B-теста (тест Хи-квадрат).|Python (pandas, scipy, seaborn)|
 
