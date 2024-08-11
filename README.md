@@ -6,7 +6,7 @@
 
 ### :information_desk_person: Обо мне:  
 :mag:Я аналитик данных с техническим образованием в сфере ракетостроения.  
-:rocket:Нахожусь в постоянном в движении и в совершенствовании своих навыков выполняя интересные мне pet-проекты.  
+:rocket:Нахожусь в постоянном в движении и в совершенствовании своих навыков, выполняя интересные мне pet-проекты.  
 :mailbox_with_mail:Связаться со мной:
 [![Telegram Badge](https://img.shields.io/badge/telegram-FFFFFF?style=flat&logo=telegram&logoColor=#26A5E4)](https://t.me/alexander_shlykov)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat&logo=gmail&logoColor=#26A5E4)](mailto:shlykovalexander01@gmail.com)
